@@ -15,7 +15,7 @@ export function Contact() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const subject = `New Message from ${name} (${email})`;
-    const mailtoLink = `mailto:hello@designverse.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(message)}`;
+    const mailtoLink = `mailto:charlesmuthui206@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(message)}`;
     window.location.href = mailtoLink;
   };
 
@@ -30,9 +30,9 @@ export function Contact() {
               I'm always excited to hear about new projects and opportunities. If you have an idea, a question, or just want to say hello, feel free to reach out. Let's build something amazing.
             </p>
             <div className="space-y-4">
-              <a href="mailto:hello@designverse.com" className="flex items-center gap-4 text-lg hover:text-accent transition-colors">
+              <a href="mailto:charlesmuthui206@gmail.com" className="flex items-center gap-4 text-lg hover:text-accent transition-colors">
                 <Mail className="w-6 h-6 text-accent" />
-                <span>hello@designverse.com</span>
+                <span>charlesmuthui206@gmail.com</span>
               </a>
               <a href="tel:+1234567890" className="flex items-center gap-4 text-lg hover:text-accent transition-colors">
                 <Phone className="w-6 h-6 text-accent" />

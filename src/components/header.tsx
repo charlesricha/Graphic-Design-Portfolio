@@ -22,7 +22,7 @@ export function Header() {
         <div className="flex h-20 items-center justify-between">
           <Link href="/" className="flex items-center gap-2 text-2xl font-bold text-accent">
             <Code className="h-8 w-8" />
-            <span className="font-headline">DesignVerse</span>
+            <span className="font-headline">Adrian</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-6 text-lg">

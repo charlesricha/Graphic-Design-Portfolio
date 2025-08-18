@@ -14,7 +14,7 @@ export function Hero() {
       </div>
       <div className="relative z-10 text-center p-4">
         <h1 className="text-6xl md:text-8xl font-black font-headline text-transparent bg-clip-text bg-gradient-to-r from-gray-200 to-gray-500 animate-text-shine">
-          Your Name
+          Adrian
         </h1>
         <p className="mt-4 text-2xl md:text-4xl font-semibold text-accent font-headline">
           Graphic Designer & Creative Innovator

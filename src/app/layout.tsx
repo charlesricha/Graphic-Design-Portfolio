@@ -5,7 +5,7 @@ import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 
 export const metadata: Metadata = {
-  title: 'DesignVerse',
+  title: 'Adrian',
   description: 'A modern, sleek, and captivating personal portfolio for a graphic designer.',
 };
 

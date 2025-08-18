@@ -1,5 +1,4 @@
 import { About } from "@/components/about";
-import { AiFeedback } from "@/components/ai-feedback";
 import { Contact } from "@/components/contact";
 import { Hero } from "@/components/hero";
 import { Portfolio } from "@/components/portfolio";
@@ -14,7 +13,6 @@ export default function Home() {
       <Portfolio />
       <Services />
       <Testimonials />
-      <AiFeedback />
       <Contact />
     </div>
   );

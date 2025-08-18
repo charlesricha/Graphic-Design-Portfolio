@@ -1,3 +1,6 @@
+"use client";
+
+import { useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -5,6 +8,17 @@ import { Button } from "@/components/ui/button";
 import { Send, Linkedin, Instagram, Mail, Phone } from "lucide-react";
 
 export function Contact() {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    const subject = `New Message from ${name} (${email})`;
+    const mailtoLink = `mailto:hello@designverse.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(message)}`;
+    window.location.href = mailtoLink;
+  };
+
   return (
     <section id="contact" className="py-24 bg-background">
       <div className="container mx-auto px-4">
@@ -43,10 +57,10 @@ export function Contact() {
               <CardTitle className="text-2xl font-headline">Send Me a Message</CardTitle>
             </CardHeader>
             <CardContent>
-              <form className="space-y-4">
-                <Input placeholder="Your Name" className="bg-input border-border focus:ring-accent" />
-                <Input type="email" placeholder="Your Email" className="bg-input border-border focus:ring-accent" />
-                <Textarea placeholder="Your Message" rows={5} className="bg-input border-border focus:ring-accent" />
+              <form onSubmit={handleSubmit} className="space-y-4">
+                <Input placeholder="Your Name" value={name} onChange={(e) => setName(e.target.value)} required className="bg-input border-border focus:ring-accent" />
+                <Input type="email" placeholder="Your Email" value={email} onChange={(e) => setEmail(e.target.value)} required className="bg-input border-border focus:ring-accent" />
+                <Textarea placeholder="Your Message" value={message} onChange={(e) => setMessage(e.target.value)} required rows={5} className="bg-input border-border focus:ring-accent" />
                 <Button type="submit" className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
                   <Send className="mr-2 h-4 w-4" />
                   Send Message

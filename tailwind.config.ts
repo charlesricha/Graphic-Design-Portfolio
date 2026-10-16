@@ -10,11 +10,28 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        body: ['Outfit', 'sans-serif'],
-        headline: ['Outfit', 'sans-serif'],
-        code: ['monospace'],
+        sans: ['"Host Grotesk"', 'Outfit', 'sans-serif'],
+        mono: ['"Space Mono"', 'monospace'],
+        display: ['Syne', '"Host Grotesk"', 'sans-serif'],
+        headline: ['"Host Grotesk"', 'Outfit', 'sans-serif'],
+        body: ['"Host Grotesk"', 'Outfit', 'sans-serif'],
       },
       colors: {
+        ink: {
+          DEFAULT: '#0C0D0E',
+          surface: '#141518',
+          card: '#16181C',
+          border: 'rgba(255, 255, 255, 0.08)',
+          muted: 'rgba(244, 243, 238, 0.55)',
+        },
+        paper: {
+          DEFAULT: '#F4F3EE',
+          muted: 'rgba(244, 243, 238, 0.7)',
+        },
+        amber: {
+          DEFAULT: '#FFB700',
+          glow: 'rgba(255, 183, 0, 0.25)',
+        },
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
         card: {

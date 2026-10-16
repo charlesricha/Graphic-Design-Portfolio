@@ -1,0 +1,450 @@
+[
+  {
+    "id": "skypeak-water-packaging",
+    "title": "Sky Peak Drinking Water Packaging",
+    "category": "Packaging & Label",
+    "image": "/projects/skypeak-water-packaging.png",
+    "description": "Complete product packaging and bottle label design for Sky Peak Purified Drinking Water. Crafted with fresh mountain blue aesthetics, typography, comprehensive mineral composition analysis, and KEBS standard certification compliance.",
+    "client": "Sky Peak Company Ltd",
+    "year": "2026",
+    "tags": [
+      "Packaging",
+      "Bottle Label",
+      "Branding",
+      "Print Design"
+    ],
+    "featured": true
+  },
+  {
+    "id": "diana-general-shop-banner",
+    "title": "Diana General Shop Commercial Banner",
+    "category": "Storefront & Banners",
+    "image": "/projects/diana-general-shop-banner.png",
+    "description": "High-impact retail storefront billboard banner designed for Diana General Shop, presenting clear product category clusters (cosmetics, plastics, cold drinks, footwear, gas refill, groceries) with bold contrast for roadside visibility.",
+    "client": "Diana General Shop",
+    "year": "2025",
+    "tags": [
+      "Storefront",
+      "Outdoor Banner",
+      "Retail Signage",
+      "Large Format"
+    ],
+    "featured": true
+  },
+  {
+    "id": "alx-robots-championship",
+    "title": "Extraordinary Robots Championship Poster",
+    "category": "Event Posters",
+    "image": "/projects/alx-robots-championship.png",
+    "description": "High-energy promotional poster for the ALX Robotics Club Championship at The Piano Westlands, spotlighting robot football, battle bots, racing bots, and maze-solving competitions.",
+    "client": "ALX Robotics Club",
+    "year": "2025",
+    "tags": [
+      "Event Poster",
+      "Robotics",
+      "Technology",
+      "Graphic Art"
+    ],
+    "featured": true
+  },
+  {
+    "id": "alx-soccerbots-competition",
+    "title": "SoccerBots Tournament Poster",
+    "category": "Event Posters",
+    "image": "/projects/alx-soccerbots-competition.png",
+    "description": "Dynamic robotics sports poster with custom event highlights, ticket details, hardware discounts callout, and instant QR code registration.",
+    "client": "ALX Robotics Club & ExtraBotics",
+    "year": "2025",
+    "tags": [
+      "Event Flyer",
+      "Robotics",
+      "Sports Tech",
+      "QR Code"
+    ],
+    "featured": false
+  },
+  {
+    "id": "extrabotics-robot-championship-certificate",
+    "title": "ExtraBotics Robot Championship Certificate",
+    "category": "Certificates & Editorial",
+    "image": "/projects/extrabotics-robot-championship-certificate.png",
+    "description": "Formal Certificate of Achievement awarded to the first-place winners of the Robot Football competition, designed with gold ribbon iconography, corporate typography, and executive sign-off sections.",
+    "client": "ExtraBotics & ALX Robotics",
+    "year": "2025",
+    "tags": [
+      "Certificate",
+      "Achievement",
+      "Print Design",
+      "Typography"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iot-robotics-youtube-thumbnail",
+    "title": "\"How Alexa Works\" YouTube Thumbnail",
+    "category": "Digital & Social Media",
+    "image": "/projects/iot-robotics-youtube-thumbnail.png",
+    "description": "Click-optimized digital thumbnail for an IoT & Robotics education session, utilizing high-contrast magenta and black duotone coloring, circuit-board textures, and bold display lettering.",
+    "client": "Tech & Robotics Education",
+    "year": "2025",
+    "tags": [
+      "YouTube Thumbnail",
+      "Digital Media",
+      "Duotone",
+      "IoT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gdg-iot-circuits-workshop",
+    "title": "GDG IoT Workshop: Crafting With Circuits",
+    "category": "Event Posters",
+    "image": "/projects/gdg-iot-circuits-workshop.png",
+    "description": "Engaging technical workshop flyer featuring a custom friendly 3D robot mascot, notepad syllabus layout, and QR-code access for virtual Google Meet participants.",
+    "client": "Google Developer Group University of Embu",
+    "year": "2025",
+    "tags": [
+      "Workshop Flyer",
+      "3D Mascot",
+      "Google Devs",
+      "Tech Education"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gdg-graduation-class-2026",
+    "title": "GDG Graduation: Class of 2026 Celebration",
+    "category": "Event Posters",
+    "image": "/projects/gdg-graduation-class-2026.png",
+    "description": "Commemorative graduation social media graphic honoring tech community leaders, blending graduation regalia, radial halftone dots, and Google Developer colors.",
+    "client": "Google Developer Group University of Embu",
+    "year": "2026",
+    "tags": [
+      "Social Media Poster",
+      "Graduation",
+      "Community",
+      "Halftone"
+    ],
+    "featured": true
+  },
+  {
+    "id": "bubble-fast-internet-wifi-deals",
+    "title": "Bubble Fast Internet Promotional Ad",
+    "category": "Advertising & Commercial",
+    "image": "/projects/bubble-fast-internet-wifi-deals.png",
+    "description": "Commercial advertising campaign graphic for Bubble WiFi hotspot services, featuring bold price packaging (10 Bob & 700 Bob deals) with clean promotional typography.",
+    "client": "Bubble Fast Internet",
+    "year": "2026",
+    "tags": [
+      "Ad Banner",
+      "ISP Marketing",
+      "Social Media Ad",
+      "Telecom"
+    ],
+    "featured": true
+  },
+  {
+    "id": "naptech-internet-promo",
+    "title": "Naptech Internet \"Plot Yenu Haina Net?\" Promo",
+    "category": "Advertising & Commercial",
+    "image": "/projects/naptech-internet-promo.jpg",
+    "description": "Viral, humor-driven student WiFi promotional poster combining dynamic character art, vivid orange branding, and affordable bundle pricing callouts.",
+    "client": "Naptech Internet",
+    "year": "2025",
+    "tags": [
+      "Advertising",
+      "Social Media",
+      "Meme Marketing",
+      "Telecom"
+    ],
+    "featured": false
+  },
+  {
+    "id": "ramcotech-eid-al-adha-poster",
+    "title": "Ramcotech Eid Al-Adha Mubarak Greeting",
+    "category": "Branding & Holiday",
+    "image": "/projects/ramcotech-eid-al-adha-poster.png",
+    "description": "Elegant textured holiday greeting poster featuring hanging lanterns, architectural silhouettes, and custom celebratory typography on crumpled paper texture.",
+    "client": "Ramcotech Fiber Internet",
+    "year": "2025",
+    "tags": [
+      "Holiday Poster",
+      "Paper Texture",
+      "Typography",
+      "Branding"
+    ],
+    "featured": true
+  },
+  {
+    "id": "rotaract-pool-hangout",
+    "title": "Rotaract Club Pool Hangout Poster",
+    "category": "Event Posters",
+    "image": "/projects/rotaract-pool-hangout.png",
+    "description": "Lively retro-themed poolside event poster for the Rotaract Club fellowship at Izaak Walton Inn, complete with puffy 70s title lettering and Lipa Na M-Pesa ticketing box.",
+    "client": "Rotaract Club of Embu",
+    "year": "2026",
+    "tags": [
+      "Event Flyer",
+      "Summer Poster",
+      "Community Fellowship",
+      "Typography"
+    ],
+    "featured": true
+  },
+  {
+    "id": "rotaract-october-events",
+    "title": "Rotaract Embu Monthly Events Calendar",
+    "category": "Infographics & Calendar",
+    "image": "/projects/rotaract-october-events.png",
+    "description": "Clean, color-coded monthly calendar graphic communicating weekly community service events, wellness talks, and field trips for club members.",
+    "client": "Rotaract Club of Embu",
+    "year": "2026",
+    "tags": [
+      "Infographic",
+      "Calendar",
+      "Social Schedule",
+      "Club Branding"
+    ],
+    "featured": false
+  },
+  {
+    "id": "youth-week-celebration",
+    "title": "ACK Youth Week Celebration Campaign",
+    "category": "Event Posters",
+    "image": "/projects/youth-week-celebration.png",
+    "description": "Church youth ministry festival poster on textured paper backdrop, using hand-drawn organic accents, vibrant title lettering, and mission activity photography.",
+    "client": "ACK St. Paul's Makima Church",
+    "year": "2026",
+    "tags": [
+      "Church Poster",
+      "Youth Outreach",
+      "Community",
+      "Editorial"
+    ],
+    "featured": false
+  },
+  {
+    "id": "youth-week-visiting-elderly",
+    "title": "Youth Week: Visiting the Elderly Mission",
+    "category": "Event Posters",
+    "image": "/projects/youth-week-visiting-elderly.png",
+    "description": "Sub-event flyer spotlighting community outreach to the elderly, featuring expressive documentary portraiture, warm accents, and scripture devotionals.",
+    "client": "ACK St. Paul's Makima Church",
+    "year": "2026",
+    "tags": [
+      "Event Poster",
+      "Community Mission",
+      "Portraiture",
+      "Charity"
+    ],
+    "featured": false
+  },
+  {
+    "id": "bubblenet-madaraka-day",
+    "title": "Bubble Net Madaraka Day Commemorative Art",
+    "category": "Branding & Holiday",
+    "image": "/projects/bubblenet-madaraka-day.jpg",
+    "description": "National holiday poster honoring Madaraka Day, fusing Kenyan national symbols, shield iconography, and inspirational corporate messaging on freedom.",
+    "client": "Bubble Net",
+    "year": "2025",
+    "tags": [
+      "National Holiday",
+      "Kenyan Heritage",
+      "Branding",
+      "Social Media"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gdg-madaraka-day",
+    "title": "GDG Embu Madaraka Day Tech Poster",
+    "category": "Branding & Holiday",
+    "image": "/projects/gdg-madaraka-day.jpg",
+    "description": "Holiday graphic celebrating self-rule and African technological sovereignty, adorned with draped national ribbons and modern serif typography.",
+    "client": "Google Developer Group University of Embu",
+    "year": "2025",
+    "tags": [
+      "National Holiday",
+      "Google Developers",
+      "Digital Art",
+      "Tech Culture"
+    ],
+    "featured": false
+  },
+  {
+    "id": "napenda-creatives-christmas",
+    "title": "Napenda Creatives Festive Holiday Card",
+    "category": "Branding & Holiday",
+    "image": "/projects/napenda-creatives-christmas.png",
+    "description": "Creative agency holiday card turning the Photoshop toolbar into a Santa-hat wearing holiday pillar, surrounded by festive evergreen needles and Adobe logos.",
+    "client": "Napenda Creatives Ltd",
+    "year": "2025",
+    "tags": [
+      "Holiday Card",
+      "Creative Design",
+      "Photoshop",
+      "Digital Art"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gdg-christmas-greeting",
+    "title": "GDG Embu Christmas & New Year Greeting",
+    "category": "Branding & Holiday",
+    "image": "/projects/gdg-christmas-greeting.png",
+    "description": "Clean seasonal holiday greeting card designed for developer community members, adorned with golden ornaments, pine branches, and refined script lettering.",
+    "client": "Google Developer Group University of Embu",
+    "year": "2025",
+    "tags": [
+      "Holiday Card",
+      "Seasonal Greeting",
+      "Google Developers",
+      "Festive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gdg-orientation-day",
+    "title": "GDGoC Campus Orientation Day Poster",
+    "category": "Event Posters",
+    "image": "/projects/gdg-orientation-day.png",
+    "description": "Vibrant campus community onboarding flyer featuring speech-bubble typography, community photo strip, event schedule badge, and registration QR code.",
+    "client": "Google Developer Group University of Embu",
+    "year": "2025",
+    "tags": [
+      "Orientation Poster",
+      "Campus Event",
+      "Google Devs",
+      "QR Code"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gdg-orientation-day-alt",
+    "title": "GDGoC Orientation Day (Geometric Edition)",
+    "category": "Event Posters",
+    "image": "/projects/gdg-orientation-day-alt.png",
+    "description": "Alternative design variant using geometric chevron headers, bold red-pill event badge, and wide group portraiture.",
+    "client": "Google Developer Group University of Embu",
+    "year": "2025",
+    "tags": [
+      "Orientation Poster",
+      "Geometric Layout",
+      "Photography",
+      "Tech Event"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tumaini-brand-identity",
+    "title": "Tumaini Brand Identity & Official Emblem",
+    "category": "Brand Identity & Logos",
+    "image": "/projects/tumaini-brand-identity.png",
+    "description": "Complete corporate brand mark and identity system for Tumaini, utilizing geometric harmony, inspiring blue-gold color palette, and scalable vector typography.",
+    "client": "Tumaini Organization",
+    "year": "2026",
+    "tags": [
+      "Logo Design",
+      "Brand Identity",
+      "Vector Art",
+      "Corporate Branding"
+    ],
+    "featured": true
+  },
+  {
+    "id": "ramcotech-distributors-billboard",
+    "title": "Ramcotech Commercial Distributors Storefront Billboard",
+    "category": "Storefront & Banners",
+    "image": "/projects/ramcotech-distributors-billboard.jpg",
+    "description": "Large-scale commercial roadside billboard and retail distributor facade design, featuring sharp product highlights, clear vendor contacts, and durable high-visibility color blocks.",
+    "client": "Ramcotech Distributors Ltd",
+    "year": "2025",
+    "tags": [
+      "Billboard",
+      "Commercial Storefront",
+      "Outdoor Signage",
+      "Large Format"
+    ],
+    "featured": true
+  },
+  {
+    "id": "chess-king-tournament",
+    "title": "Chess King Championship Tournament Poster",
+    "category": "Event Posters",
+    "image": "/projects/chess-king-tournament.png",
+    "description": "Bold competitive chess tournament campaign poster featuring high-contrast wooden king chess piece typography, tournament scheduling, entry details, and prize pool showcase.",
+    "client": "Chess Kenya & Campus Sports",
+    "year": "2025",
+    "tags": [
+      "Sports Poster",
+      "Chess Championship",
+      "Tournament Branding",
+      "Typography"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gdg-iot-robotics-announcement",
+    "title": "GDG IoT & Robotics Community Launch Poster",
+    "category": "Event Posters",
+    "image": "/projects/gdg-iot-robotics-announcement.png",
+    "description": "Dynamic technology community announcement highlighting hands-on microcontrollers, robotics builds, and student innovation summits across Eastern Kenya.",
+    "client": "Google Developer Group University of Embu",
+    "year": "2025",
+    "tags": [
+      "Tech Community",
+      "Robotics",
+      "IoT",
+      "Google Devs"
+    ],
+    "featured": true
+  },
+  {
+    "id": "playful-iot-nerds-logo",
+    "title": "Playful IoT for Nerds Brand Mark Concepts",
+    "category": "Brand Identity & Logos",
+    "image": "/projects/playful-iot-nerds-logo.png",
+    "description": "Creative identity exploration and logo exploration suite for Playful IoT for Nerds, integrating circuit-board iconography, whimsical mascot elements, and modern tech typography.",
+    "client": "Playful IoT Initiative",
+    "year": "2025",
+    "tags": [
+      "Logo Exploration",
+      "Brand Mark",
+      "Tech Branding",
+      "Mascot"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gamenight-ootd-poster",
+    "title": "Rotaract Game Night & OOTD Showcase",
+    "category": "Event Posters",
+    "image": "/projects/gamenight-ootd-poster.png",
+    "description": "Retro-pop social mixer poster celebrating board games, fashion (Outfit Of The Day), and community networking with playful typography, custom badges, and ticketing details.",
+    "client": "Rotaract Club of Embu",
+    "year": "2026",
+    "tags": [
+      "Game Night",
+      "Social Event",
+      "Community Flyer",
+      "Typography"
+    ],
+    "featured": false
+  },
+  {
+    "id": "harambee-contribution-card",
+    "title": "Community Harambee Contribution & Invitation Card",
+    "category": "Certificates & Editorial",
+    "image": "/projects/harambee-contribution-card.png",
+    "description": "Formal community fundraiser invitation and pledge card crafted with ceremonial borders, structured donor pledge tables, M-Pesa paybill details, and commemorative typography.",
+    "client": "Community Development Initiative",
+    "year": "2025",
+    "tags": [
+      "Invitation Card",
+      "Editorial Print",
+      "Harambee",
+      "Official Stationery"
+    ],
+    "featured": false
+  }
+]
